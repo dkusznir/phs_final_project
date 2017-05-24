@@ -1,0 +1,3 @@
+SampEn (Epoch: 0) = 1.867308 (standard deviation = 0.003755)
+SampEn (Epoch: 1) = 1.196615 (standard deviation = 0.017389)
+SampEn (Epoch: 2) = 0.946914 (standard deviation = 0.033592)
