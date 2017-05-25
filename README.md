@@ -1,7 +1,7 @@
 # EECS 395/495: Personal Health Systems - Final Project
 Repository for EECS 395/495: Personal Health Systems Final Project
 
-SPRING 2017
+SPRING 2017, NORTHWESTERN UNIVERSITY
 
 Instructor : Professor Nicos Maglaveras
 
