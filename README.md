@@ -2,6 +2,7 @@
 Repository for EECS 395/495: Personal Health Systems Final Project
 
 SPRING 2017
+
 FINAL PROJECT
 Instructor : Professor Nicos Maglaveras
 A PHS using for monitoring and visualization of daily activities of normal and CAD subjects
